@@ -1,4 +1,4 @@
- helm  repo add learnhelm https://deth2jt.gitlab.io/redis-kube/add
+ helm  repo add learnhelm https://deth2jt.gitlab.io/redis-kube
 
  
  https://www.techrepublic.com/article/how-to-install-a-kubernetes-cluster-on-centos-7/
